@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">buggyapp</string>
+    <string name="title_activity_vulnerability">Vulnerability</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="sp"> A SharedPreferences object points to a file containing key-value pairs and provides simple methods to read and write them. To find the flag adb to device and visit shared preferences folder present in /data/data/com.rahulkadavil.buggyapp/shared_prefs</string>
 </resources>

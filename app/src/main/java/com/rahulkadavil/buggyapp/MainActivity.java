@@ -12,6 +12,9 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 Button proceed;
+
+    //Splash Screen Code
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
