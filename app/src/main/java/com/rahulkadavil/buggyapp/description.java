@@ -16,6 +16,7 @@ Button back;
         setContentView(R.layout.activity_description);
         back = findViewById(R.id.back);
         back.setOnClickListener(new View.OnClickListener() {
+        // Display info about vulnerability
             @Override
             public void onClick(View view) {
                 Intent startmain = new Intent(getApplicationContext(), Vulnerability.class);
